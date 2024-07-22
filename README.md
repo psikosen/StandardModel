@@ -57,7 +57,7 @@ This project includes two main parts:
 2. Run the scripts (`model_code.py`, `field_evolution_code.py`, `breast_cancer_code.py`) in a Python environment.
 3. View the generated plots and evaluation metrics.
 
-### Example Command
+### Run Command for ech
 
 ```sh
 python model_code.py
